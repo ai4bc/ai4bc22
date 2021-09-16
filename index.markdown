@@ -42,7 +42,7 @@ The goal of this workshop is to bring together scholars from the causal inferenc
 
 # Format
 
-The full-day workshop will start with a keynote talk, followed by an invited talk and contributed paper presentations in the morning. The post-lunch session will feature a second keynote talk, two invited talks, and contributed paper presentations. Papers more suited for a poster, rather than a presentation, would be invited for a poster session. We will also select up to 5 best posters for spotlight talks (2 minutes each). We will also organize breakout "lunch rooms" hosted by our partners with specific themes, aimed at faciliating conversations and relationship building among scholars and to discuss future directions and enhancement to this workshop.
+The full-day workshop will start with a keynote talk, followed by an invited talk and contributed paper presentations in the morning. The post-lunch session will feature a second keynote talk, two invited talks, and contributed paper presentations. Papers more suited for a poster, rather than a presentation, would be invited for a poster session. We will also select the best posters for spotlight talks (2 minutes each). We will end the workshop with a panel discussion by top researchers in the field. We are also actively exploring options to conduct the workshop in a hybrid format, with participants able to join in remotely and in-person.
 
 # Submission Guidelines
 
