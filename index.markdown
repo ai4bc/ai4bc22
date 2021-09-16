@@ -84,17 +84,16 @@ The audience of this workshop will be researchers and students from a wide array
     </div>
     <div class="list-item-people">
         <p class="list-post-title">
-            <img class="profile-thumbnail" src="https://lh4.googleusercontent.com/WaxwxlyG_8LHovcWdWfS4NzCH_Bf_6yYQbo-cFlmN_213jr8vNeygTDf3Ja7q_iRnIBnFCMaNEcnUM0IgtkUkebh-6lWFso62jYJBuM7VOTuW7E4=w1280"/>
-            <span class="caption"><a href="https://www.michaelsobolev.com">Michael Sobolev</a><br>Cornell Tech<br></span>
-        </p>
-    </div>
-    <div class="list-item-people">
-        <p class="list-post-title">
             <img class="profile-thumbnail" src="https://faculty.wharton.upenn.edu/wp-content/uploads/2020/10/Gandhi-Linnea-129x139.jpg"/>
             <span class="caption"><a href="https://oid.wharton.upenn.edu/profile/lgandhi/#research">Linnea Gandhi</a><br>University of Pennsylvania<br></span>
         </p>
       </div>
-
+    <div class="list-item-people">
+        <p class="list-post-title">
+            <img class="profile-thumbnail" src="https://lh4.googleusercontent.com/WaxwxlyG_8LHovcWdWfS4NzCH_Bf_6yYQbo-cFlmN_213jr8vNeygTDf3Ja7q_iRnIBnFCMaNEcnUM0IgtkUkebh-6lWFso62jYJBuM7VOTuW7E4=w1280"/>
+            <span class="caption"><a href="https://www.michaelsobolev.com">Michael Sobolev</a><br>Cornell Tech<br></span>
+        </p>
+    </div>
 </div>
 
 
