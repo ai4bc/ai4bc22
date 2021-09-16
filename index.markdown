@@ -33,6 +33,7 @@ The goal of this workshop is to bring together scholars from the causal inferenc
 - Heterogeneity estimation
 - Targeted nudges
 - Bias/equity in algorithmic decision-making
+- Vaccine hesitancy/Vaccine uptake
 - Mental health/wellness
 - Habit formation
 - Social media interventions
