@@ -4,10 +4,9 @@
 title: AI for Behavior Change
 layout: page
 ---
-**The AAAI-21 Workshop on AI For Behavior Change held at the Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21)** <br><br>
-**February 8, 2021** <br>
-**A Virtual Conference** <br>
-**[Zoom Recordings](/ai4bc21/schedule.html)**
+**The AAAI-22 Workshop on AI For Behavior Change held at the Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-22)** <br><br>
+**February 28-March 1, 2022** <br>
+
 
 > - [Topics](#topics)
 > - [Workshop format](#format)
@@ -149,34 +148,19 @@ The audience of this workshop will be researchers and students from a wide array
 
 
 
-#### Program Committee (tentative)
-- [Jann Spiess][jann], Stanford University
-- [Paramveer Dhillon][paramveer], University of Michigan
-- [Zhenke Wu][zhenke], University of Michigan
-- [Anton Gollwitzer][anton], Yale University
 
 # Key Dates
-- (Updated) Submission Deadline: November 13, 2020 11.59 pm Anywhere on Earth [(via Easychair)][easychairlink]
-- Notification of acceptance/rejection: December 8, 2020
-- Registration for Accepted Authors: December 18, 2020  [(Link here)][register]
-- Early Bird Registration for everyone else: January 15, 2021  [(Link here)][register]
-- Workshop Date: February 8, 2021
+- Submission Deadline: November 14, 2021 11.59 pm Anywhere on Earth [(via Easychair)][easychairlink]
+- Notification of acceptance/rejection: 
+- Registration for Accepted Authors: 
+- Early Bird Registration for everyone else: 
+- Workshop Date: February 28/March 1, 2021
 
 # **Contact**
 For any questions, please reach out to us at ai4behaviorchange at gmail dot com
 
-[aaai-21-guidelines]: https://www.aaai.org/Publications/Templates/AuthorKit21.zip
-[easychairlink]: https://easychair.org/cfp/ai4bc21
+[aaai-22-guidelines]: https://www.aaai.org/Publications/Templates/AuthorKit22.zip
+[easychairlink]: https://easychair.org/cfp/ai4bc22
 [ladhania]: https://rahulladhania.com
 [ungar]: https://www.cis.upenn.edu/~ungar/
-[sendhil]: https://sendhil.org
-[tony]: http://kordinglab.com/people/tony_liu/index.html
-[eric]: https://statistics.wharton.upenn.edu/profile/ett/
-[athey]: https://athey.people.stanford.edu
-[kleinberg]:http://www.cs.cornell.edu/home/kleinber/
-[munmun]: http://www.munmund.net
-[jann]:https://www.gsb.stanford.edu/faculty-research/faculty/jann-spiess
-[paramveer]:http://pdhillon.com
-[zhenke]:https://sph.umich.edu/faculty-profiles/wu-zhenke.html
-[anton]:https://www.antongollwitzer.org
 [register]:https://aaai.org/Conferences/AAAI-21/registration/
