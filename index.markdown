@@ -13,6 +13,7 @@ layout: page
 > - [Submission guidelines](#submission-guidelines)
 > - [Speakers](#invited-speakers)
 > - [Partners and Sponsors](#partners-and-sponsors)
+> [//]: # (This may be the most platform independent comment)
 > - [Organization](#organization)
 > - [Key Dates](#key-dates)
 > - [Schedule](/ai4bc21/schedule.html)
