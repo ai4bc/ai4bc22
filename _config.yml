@@ -35,7 +35,7 @@ plugins:
 
 # allows for internal page references
 kramdown:
-    auto_ids: true
+    auto_ids: false
 
 # ensures that there are no additional header pages
 #header_pages:
