@@ -6,7 +6,7 @@ layout: page
 ---
 **The AAAI-22 Workshop on AI For Behavior Change held at the Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI-22)** <br><br>
 **February 28/March 1, 2022** <br>
-**Vancouver, BC, Canada ** <br>
+**Vancouver, BC, Canada** <br>
 
 > - [Topics](#topics)
 > - [Workshop format](#format)
@@ -55,59 +55,16 @@ The audience of this workshop will be researchers and students from a wide array
 <div class="content list people">
     <div class="list-item-people">
         <p class="list-post-title">
-            <img class="profile-thumbnail" src="https://athey.people.stanford.edu/sites/g/files/sbiybj5686/f/photo-faculty-athey-susan.jpg"/>
-            <span class="caption"><a href="https://athey.people.stanford.edu">Susan Athey</a> (keynote)<br>Economics of Technology <br>Stanford University</span>
+            <img class="profile-thumbnail" src="http://camerergroup.caltech.edu/wp-content/uploads/2019/06/Screen-Shot-2019-06-27-at-2.50.47-PM.png"/>
+            <span class="caption"><a href="https://www.hss.caltech.edu/people/colin-f-camerer">Colin Camerer</a> (keynote)<br>Behavioral Economics and Neuroscience<br>California Institute of Technology</span>
         </p>
     </div>
     <div class="list-item-people">
         <p class="list-post-title">
-            <img class="profile-thumbnail" src="https://gsbcomphoto.chicagobooth.edu/smullain.jpg"/>
-            <span class="caption"><a href="https://sendhil.org">Sendhil Mullainathan</a> (keynote)<br>Computation and Behavioral Science<br>University of Chicago</span>
+            <img class="profile-thumbnail" src="http://people.seas.harvard.edu/~samurphy/smurphy.jpg"/>
+            <span class="caption"><a href="http://people.seas.harvard.edu/~samurphy/">Susan Murphy</a> (keynote)<br>Statistics and Computer Science<br>University of Chicago</span>
         </p>
     </div>
-    <div class="list-item-people">
-        <p class="list-post-title">
-            <img class="profile-thumbnail" src="https://stat.uw.edu/sites/default/files/styles/medium/public/2019-01/Tchetgen%20Tchetgen%2C%20Eric_0.jpg?itok=UQMEc__o"/>
-            <span class="caption"><a href="https://statistics.wharton.upenn.edu/profile/ett/">Eric Tchetgen Tchetgen</a><br>Statistics<br>University of Pennsylvania</span>
-        </p>
-    </div>
-    <div class="list-item-people">
-        <p class="list-post-title">
-            <img class="profile-thumbnail" src="https://infosci.cornell.edu/sites/default/files/JonK1.jpg"/>
-            <span class="caption"><a href="http://www.cs.cornell.edu/home/kleinber/">Jon Kleinberg</a><br>Computer Science<br>Cornell University</span>
-        </p>
-    </div>
-    <div class="list-item-people">
-        <p class="list-post-title">
-            <img class="profile-thumbnail" src="http://www.munmund.net/imgs/munmun-pic2.jpg"/>
-            <span class="caption"><a href="http://www.munmund.net">Munmun De Choudhury</a><br>Interactive Computing<br>Georgia Tech</span>
-        </p>
-      </div>
-</div>
-
-# Partners and Sponsors
-<div class="content list people">
-
-<div class="list-item-people">
-        <p class="list-post-title">
-            <img  width="300" src="https://github.com/ai4bc/ai4bc21/blob/master/assets/bcfg.png?raw=true"/>
-            <span class="caption"><a href="https://bcfg.wharton.upenn.edu">Behavior Change For Good</a> <br>University of Pennsylvania<br></span>
-        </p>
-    </div>
-
-<div class="list-item-people">
-    <p class="list-post-title">
-        <img  width="200" src="https://raw.githubusercontent.com/ai4bc/ai4bc21/master/assets/appliedai.png"/>
-        <span class="caption"><a href="https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence">Center for Applied Artificial Intelligence</a><br>Chicago Booth<br></span>
-    </p>
-</div>
-
-<div class="list-item-people">
-    <p class="list-post-title">
-        <img width="300" src="https://github.com/ai4bc/ai4bc21/blob/master/assets/pyschoftech.jpg?raw=true">
-        <span class="caption"><a href="https://www.psychoftech.org">Psychology Of Technology Institute</a></span>
-        </p>
-</div>
 </div>
 
 # Organization
@@ -122,26 +79,14 @@ The audience of this workshop will be researchers and students from a wide array
     </div>
     <div class="list-item-people">
         <p class="list-post-title">
-            <img class="profile-thumbnail" src="https://gsbcomphoto.chicagobooth.edu/smullain.jpg"/>
-            <span class="caption"><a href="https://sendhil.org">Sendhil Mullainathan</a> <br>University of Chicago<br></span>
-        </p>
-    </div>
-    <div class="list-item-people">
-        <p class="list-post-title">
-            <img class="profile-thumbnail" src="https://stat.uw.edu/sites/default/files/styles/medium/public/2019-01/Tchetgen%20Tchetgen%2C%20Eric_0.jpg?itok=UQMEc__o"/>
-            <span class="caption"><a href="https://statistics.wharton.upenn.edu/profile/ett/">Eric Tchetgen Tchetgen</a><br>University of Pennsylvania<br></span>
-        </p>
-    </div>
-    <div class="list-item-people">
-        <p class="list-post-title">
             <img class="profile-thumbnail" src="https://chibe.upenn.edu/wp-content/uploads/2020/06/Rahul-Ladhania-2-768x793.jpg"/>
             <span class="caption"><a href="https://sph.umich.edu/faculty-profiles/ladhania-rahul.html">Rahul Ladhania (primary contact)</a> <br>University of Michigan<br></span>
         </p>
     </div>
     <div class="list-item-people">
         <p class="list-post-title">
-            <img class="profile-thumbnail" src="http://kordinglab.com/images/people/tony_liu.jpg"/>
-            <span class="caption"><a href="http://kordinglab.com/people/tony_liu/index.html">Tony Liu</a><br>University of Pennsylvania<br></span>
+            <img class="profile-thumbnail" src="https://lh4.googleusercontent.com/WaxwxlyG_8LHovcWdWfS4NzCH_Bf_6yYQbo-cFlmN_213jr8vNeygTDf3Ja7q_iRnIBnFCMaNEcnUM0IgtkUkebh-6lWFso62jYJBuM7VOTuW7E4=w1280"/>
+            <span class="caption"><a href="https://www.michaelsobolev.com">Michael Sobolev</a><br>Cornell Tech<br></span>
         </p>
       </div>
 </div>
@@ -154,7 +99,7 @@ The audience of this workshop will be researchers and students from a wide array
 - Notification of acceptance/rejection: 
 - Registration for Accepted Authors: 
 - Early Bird Registration for everyone else: 
-- Workshop Date: February 28/March 1, 2021
+- Workshop Date: February 28/March 1, 2022
 
 # **Contact**
 For any questions, please reach out to us at ai4behaviorchange at gmail dot com
