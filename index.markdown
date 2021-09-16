@@ -14,7 +14,6 @@ layout: page
 > - [Speakers](#invited-speakers)
 > - [Organization](#organization)
 > - [Key Dates](#key-dates)
-# > - [Schedule](/ai4bc21/schedule.html)
 
 # Introduction
 
