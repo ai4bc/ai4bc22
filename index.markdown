@@ -12,7 +12,6 @@ layout: page
 > - [Workshop format](#format)
 > - [Submission guidelines](#submission-guidelines)
 > - [Speakers](#invited-speakers)
-> [//]: # (This may be the most platform independent comment)
 > - [Organization](#organization)
 > - [Key Dates](#key-dates)
 > - [Schedule](/ai4bc21/schedule.html)
@@ -22,7 +21,6 @@ layout: page
 In decision-making domains as wide-ranging as medication adherence, vaccination, college enrollment, retirement savings, and energy consumption, behavioral interventions have been shown to encourage people towards making better choices. It is important to learn how to use AI effectively in these areas in order to be able to motivate and help people to take actions that maximize their welfare.
 
 At least three research trends are informing insights in this field. First, large data sources, both conventionally used in social sciences (EHRs, health claims, credit card use, college attendance records) and unconventional (social networks, fitness apps), are now available, and are increasingly used to personalize interventions. These datasets can be leveraged to learn individuals’ behavioral patterns, identify individuals at risk of making sub-optimal or harmful choices, and target them with behavioral interventions to prevent harm or improve well-being. Second, psychological experiments in laboratories and in the field, in partnership with technology companies (e.g., using apps), to measure behavioral outcomes are being increasingly used for informing intervention design. Finally, there is an increasing interest in AI in moving beyond traditional supervised learning approaches towards learning causal models, which can support the identification of targeted behavioral interventions. These research trends inform the need to explore the intersection of AI with behavioral science and causal inference, and how they can come together for applications in the social and health sciences.
-
 
 This proposed workshop will build upon successes and learnings from last year’s successful AI for Behavior Change workshop, and will focus on  on advances in AI and ML that aim to (1) design and target optimal interventions; (2) explore bias and equity in the context of decision-making and (3) exploit datasets in domains spanning mobile health, social media use, electronic health records, college attendance records, fitness apps, etc. for causal estimation in behavioral science. 
 
