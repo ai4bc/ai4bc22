@@ -62,7 +62,7 @@ The audience of this workshop will be researchers and students from a wide array
     <div class="list-item-people">
         <p class="list-post-title">
             <img class="profile-thumbnail" src="http://people.seas.harvard.edu/~samurphy/smurphy.jpg"/>
-            <span class="caption"><a href="http://people.seas.harvard.edu/~samurphy/">Susan Murphy</a> (keynote)<br>Statistics and Computer Science<br>University of Chicago</span>
+            <span class="caption"><a href="http://people.seas.harvard.edu/~samurphy/">Susan Murphy</a> (keynote)<br>Statistics and Computer Science<br>Harvard University</span>
         </p>
     </div>
 </div>
@@ -89,6 +89,19 @@ The audience of this workshop will be researchers and students from a wide array
             <span class="caption"><a href="https://www.michaelsobolev.com">Michael Sobolev</a><br>Cornell Tech<br></span>
         </p>
       </div>
+        <div class="list-item-people">
+        <p class="list-post-title">
+            <img class="profile-thumbnail" src="https://chibe.upenn.edu/wp-content/uploads/2020/06/Rahul-Ladhania-2-768x793.jpg"/>
+            <span class="caption"><a href="https://sph.umich.edu/faculty-profiles/ladhania-rahul.html">Rahul Ladhania (primary contact)</a> <br>University of Michigan<br></span>
+        </p>
+    </div>
+    <div class="list-item-people">
+        <p class="list-post-title">
+            <img class="profile-thumbnail" src="https://faculty.wharton.upenn.edu/wp-content/uploads/2020/10/Gandhi-Linnea-129x139.jpg"/>
+            <span class="caption"><a href="https://oid.wharton.upenn.edu/profile/lgandhi/#research">Linnea Gandhi</a><br>University of Pennsylvania<br></span>
+        </p>
+      </div>
+
 </div>
 
 
