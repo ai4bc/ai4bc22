@@ -69,8 +69,8 @@ The audience of this workshop will be researchers and students from a wide array
             <span class="caption"><a href="http://www.rayidghani.com">Rayid Ghani</a> <br>Data Science and Public Policy<br>Carnegie Mellon University</span>
         </p>
     </div>
-
 </div>
+
 
 # Organization
 #### Organizing Committee
