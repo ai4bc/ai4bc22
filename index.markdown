@@ -72,7 +72,7 @@ The audience of this workshop will be researchers and students from a wide array
 </div>
 
 
-# Organizers
+# Organization
 
 <div class="content list people">
     <div class="list-item-people">
