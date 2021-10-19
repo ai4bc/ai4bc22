@@ -62,6 +62,14 @@ The audience of this workshop will be researchers and students from a wide array
             <span class="caption"><a href="http://people.seas.harvard.edu/~samurphy/">Susan Murphy</a> (keynote)<br>Statistics and Computer Science<br>Harvard University</span>
         </p>
     </div>
+    <div class="content list people">
+    <div class="list-item-people">
+        <p class="list-post-title">
+            <img class="profile-thumbnail" src="http://www.rayidghani.com/wp-content/uploads/2020/03/RayidGhani-012.png"/>
+            <span class="caption"><a href="http://www.rayidghani.com">Rayid Ghani</a> <br>Data Science and Public Policy<br>Carnegie Mellon University</span>
+        </p>
+    </div>
+
 </div>
 
 # Organization
