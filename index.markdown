@@ -94,7 +94,7 @@ The audience of this workshop will be researchers and students from a wide array
       </div>
     <div class="list-item-people">
         <p class="list-post-title">
-            <img class="profile-thumbnail" src="https://lh4.googleusercontent.com/WaxwxlyG_8LHovcWdWfS4NzCH_Bf_6yYQbo-cFlmN_213jr8vNeygTDf3Ja7q_iRnIBnFCMaNEcnUM0IgtkUkebh-6lWFso62jYJBuM7VOTuW7E4=w1280"/>
+            <img class="profile-thumbnail" src="https://static.wixstatic.com/media/36ef64_0a61606ebad345309f1278562637d613~mv2.jpg/v1/fill/w_514,h_506,al_c,lg_1,q_80/Talk_3_c.webp"/>
             <span class="caption"><a href="https://www.michaelsobolev.com">Michael Sobolev</a><br>Cornell Tech<br></span>
         </p>
     </div>
