@@ -12,6 +12,7 @@ layout: page
 > - [Workshop format](#format)
 > - [Submission guidelines](#submission-guidelines)
 > - [Speakers](#invited-speakers)
+> - [Partners and Sponsors](#partners-and-sponsors)
 > - [Organization](#organization)
 > - [Key Dates](#key-dates)
 
@@ -68,6 +69,12 @@ The audience of this workshop will be researchers and students from a wide array
             <span class="caption"><a href="http://www.rayidghani.com">Rayid Ghani</a><br>Data Science and Public Policy<br>Carnegie Mellon University</span>
         </p>
     </div>
+    <div class="list-item-people">
+        <p class="list-post-title">
+            <img class="profile-thumbnail" src="https://eecs.engin.umich.edu/wp-content/uploads/portraits/wiensj.jpg"/>
+            <span class="caption"><a href="http://www-personal.umich.edu/~wiensj/">Jenna Wiens</a><br>Machine Learning and Healthcare<br>University of Michigan</span>
+        </p>
+    </div>
 </div>
 
 
@@ -104,7 +111,7 @@ The audience of this workshop will be researchers and students from a wide array
 
 
 # Key Dates
-- Submission Deadline: November 14, 2021 11.59 pm Anywhere on Earth [(via Easychair)][easychairlink]
+- Submission Deadline: November 28, 2021 11.59 pm Anywhere on Earth [(via Easychair)][easychairlink]
 - Notification of acceptance/rejection: 
 - Registration for Accepted Authors: 
 - Early Bird Registration for everyone else: 
