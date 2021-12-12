@@ -89,7 +89,7 @@ The audience of this workshop will be researchers and students from a wide array
 </div>
 <div class="list-item-people">
         <p class="list-post-title">
-            <img  width="300" src="https://github.com/ai4bc/ai4bc21/blob/master/assets/bcfg.png?raw=true"/>
+                        <img  width="300" src="https://raw.githubusercontent.com/ai4bc/ai4bc21/master/assets/susilologo.png"/>
             <span class="caption"><a href="https://www.bu.edu/susilo/">Susilo Institute for Ethics in the Global Economy</a> <br>Boston University<br></span>
         </p>
     </div>
