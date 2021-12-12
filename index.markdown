@@ -77,6 +77,24 @@ The audience of this workshop will be researchers and students from a wide array
     </div>
 </div>
 
+# Partners and Sponsors
+<div class="content list people">
+
+
+<div class="list-item-people">
+    <p class="list-post-title">
+        <img  width="200" src="https://raw.githubusercontent.com/ai4bc/ai4bc21/master/assets/appliedai.png"/>
+        <span class="caption"><a href="https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence">Center for Applied Artificial Intelligence</a><br>Chicago Booth<br></span>
+    </p>
+</div>
+<div class="list-item-people">
+        <p class="list-post-title">
+            <img  width="300" src="https://github.com/ai4bc/ai4bc21/blob/master/assets/bcfg.png?raw=true"/>
+            <span class="caption"><a href="https://www.bu.edu/susilo/">Susilo Institute for Ethics in the Global Economy</a> <br>Boston University<br></span>
+        </p>
+    </div>
+
+</div>
 
 # Organization
 
