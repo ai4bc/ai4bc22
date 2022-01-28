@@ -12,6 +12,7 @@ layout: page
 > - [Workshop format](#format)
 > - [Submission guidelines](#submission-guidelines)
 > - [Speakers](#invited-speakers)
+> - [Panelists](#panelists)
 > - [Partners and Sponsors](#partners-and-sponsors)
 > - [Organization](#organization)
 > - [Key Dates](#key-dates)
@@ -76,6 +77,31 @@ The audience of this workshop will be researchers and students from a wide array
         </p>
     </div>
 </div>
+
+
+# Panelists
+
+<div class="content list people">
+    <div class="list-item-people">
+        <p class="list-post-title">
+            <img class="profile-thumbnail" src="https://faculty.wharton.upenn.edu/wp-content/uploads/2020/07/knox-headshot-129x139.png"/>
+            <span class="caption"><a href="http://www.dcknox.com/">Dean Knox</a><br>Compuational Social Science<br>University of Pennsylvania</span>
+        </p>
+    </div>
+    <div class="list-item-people">
+        <p class="list-post-title">
+            <img class="profile-thumbnail" src="https://www.jennlogg.com/uploads/2/8/9/2/2892148/editor/loggjenn-160921-0046_1.jpeg?1531837761"/>
+            <span class="caption"><a href="https://www.jennlogg.com/">Jennifer Logg</a><br>Theory of Machine<br>Georgetown University</span>
+        </p>
+    </div>
+    <div class="list-item-people">
+        <p class="list-post-title">
+            <img class="profile-thumbnail" src="https://viterbi.usc.edu/directory/images/90ebd57ae1da393af3b2842cf882a050.png"/>
+            <span class="caption"><a href="https://viterbi.usc.edu/directory/faculty/Vayanos/Phebe">Phebe Vayanos</a><br>Industrial & Systems Engineering & Computer Science<br>University of Southern California</span>
+        </p>
+    </div>
+</div>
+
 
 # Partners and Sponsors
 <div class="content list people">
