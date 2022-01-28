@@ -6,7 +6,7 @@ layout: page
 ---
 **The AAAI-22 Workshop on AI For Behavior Change held at the Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI-22)** <br><br>
 **February 28, 2022** <br>
-**Vancouver, BC, Canada** <br>
+**Virtual** <br>
 
 > - [Topics](#topics)
 > - [Workshop format](#format)
