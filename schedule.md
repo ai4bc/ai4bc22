@@ -19,7 +19,7 @@ layout: page
         <tr>
             <td> 11:05 am - 12:00 pm </td>
             <td>
-                Keynote Talk: <b>Susan Murphy</b> <br>
+                Keynote Talk: <b><a href = "http://people.seas.harvard.edu/~samurphy/">Susan Murphy</a></b> <br>
                 We used Reinforcement Learning, but did it work?
             </td>
         </tr>
@@ -38,32 +38,27 @@ layout: page
             <td> 01:00 pm - 02:00 pm </td>
             <td>
                 "Lunch Rooms" on <a href="https://gather.town/">gather</a>
-            </td>
-        </tr>
-        <tr>
-            <td> 01:00pm - 02:00pm </td>
-            <td>
-                <a href="https://ai4bc.github.io/ai4bc22/posters.html">Poster session</a> on gather
+     <a href="https://ai4bc.github.io/ai4bc22/posters.html">Poster session</a> on gather
             </td>
         </tr>
         <tr>
             <td> 02:00pm - 02:45pm </td>
             <td>
-                Invited Talk: <b>Rayid Ghani</b> <br>
+                Invited Talk: <b><a href = "http://www.rayidghani.com/">Rayid Ghani</a></b> <br>
                 ML and Behavior Change for Fair and Equitable Outcomes
             </td>
         </tr>
         <tr>
             <td> 02:45pm - 03:45pm </td>
             <td>
-                Keynote Talk: <b>Colin Camerer</b> <br>
+                Keynote Talk: <b><a href = "https://camerergroup.caltech.edu"> Colin Camerer</a></b> <br>
                 Predicting context-sensitivity of behavior in field data using machine learning
             </td>
         </tr>
         <tr>
             <td> 03:45pm - 04:30pm </td>
             <td>
-                Invited Talk: <b>Jenna Wiens</b> <br>
+                Invited Talk: <b><a href = "https://midas.umich.edu/faculty-member/jenna-wiens/">Jenna Wiens</a></b> <br>
                 Augmenting Clinical Decision Making with Artificial Intelligence
             </td>
         </tr>
@@ -76,13 +71,13 @@ layout: page
         <tr>
             <td> 04:45pm - 05:30pm </td>
             <td>
-                Invited Talk: <b>Moderated Panel with Dean Knox, Jenn Logg, and Phebe Vayanos</b> <br>               
+                Invited Talk: <b>Moderated Panel with <a href = "http://www.dcknox.com/">Dean Knox</a>, <a href = "https://www.jennlogg.com/">Jenn Logg</a>, and <a href = "https://viterbi.usc.edu/directory/faculty/Vayanos/Phebe/">Phebe Vayanos</a></b> <br>               
             </td>
         </tr>
         <tr>
             <td> 05:30pm - 06:15pm </td>
             <td>
-                Invited Talk: <b>Jens Ludwig</b> <br>
+                Invited Talk: <b><a href = "https://harris.uchicago.edu/directory/jens-ludwig/">Jens Ludwig</a></b> <br>
                 Human Connections and Algorithmic Biases
             </td>
         </tr>
