@@ -38,7 +38,7 @@ layout: page
             <td> 01:00 pm - 02:00 pm </td>
             <td>
                 Lunch Rooms on <a href="https://gather.town/">gather</a> sponsored by the <a href="https://www.bu.edu/susilo/">Susilo Center for Ethics in the Global Economy</a> <br>
-     <a href="https://ai4bc.github.io/ai4bc22/posters.html">Poster session</a>
+         Poster session sponsored by the <a href = "https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence/">Center for Applied AI at Chicago Booth</a> <br>
             </td>
         </tr>
         <tr>
