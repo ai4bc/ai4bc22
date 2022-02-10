@@ -6,7 +6,6 @@ layout: page
 ---
 
 # Monday, 28 February 2022 (All times in EST)
-**<a href="https://www.dropbox.com/sh/4zuelh8f5l1jgf1/AAC_dSoWDkE0-ksBo4-gKRiCa?dl=0">Zoom Recordings </a>**<br>
 <table>
     <colgroup>
         <col width="25%" />
@@ -29,10 +28,9 @@ layout: page
             <td>
                 Contributed Talks
                 <ul>
-                    <li> <b><a href = "https://www.hnmiecz.com/">Hannah Mieczkowski</a></b>, Applying the Principal-Agent Framework to AI-Mediated Communication: Psychological Implications </li>
-                    <li> <b><a href = "https://emaadmanzoor.com/">Emaad Manzoor</a></b>, Influence via Ethos: On the Persuasive Power of Reputation in Deliberation Online </li>
-                    <li> <b><a href = "https://killian-34.github.io/">Jackson Killian</a></b>, Fast Intervention Scheduling via Lagrangian Solutions to Multi-Action Restless Bandits </li>
-                    <li> <b><a href="http://web.sas.upenn.edu/cbs-lab/">Sudeep Bhatia</a></b>, Knowledge Representations in Health Judgments </li>
+                    <li> <b><a href = "https://www.poruzkhambatta.com/">Poruz Khambatta</a></b>, Tailoring Algorithmic Recommendations to Ideal (vs. Actual) Preferences </li>
+                    <li> <b><a href = "https://shuzeliu.com/">Shuze Liu</a></b>, Optimal Pricing of Information </li>
+                    <li> <b><a href = "https://reglab.stanford.edu/team-members/nathanael-jo/">Nathanael Jo</a></b>, Learning Optimal Prescriptive Trees from Observational Data </li>
                 </ul>
             </td>
         </tr>
