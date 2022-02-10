@@ -16,6 +16,7 @@ layout: page
 > - [Partners and Sponsors](#partners-and-sponsors)
 > - [Organization](#organization)
 > - [Key Dates](#key-dates)
+> - [Schedule](/ai4bc22/schedule.html)
 
 # Introduction
 
