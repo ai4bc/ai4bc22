@@ -5,7 +5,7 @@ title: Schedule
 layout: page
 ---
 
-# Monday, 8 February 2021 (EST)
+# Monday, 28 February 2022 (All times in EST)
 **<a href="https://www.dropbox.com/sh/4zuelh8f5l1jgf1/AAC_dSoWDkE0-ksBo4-gKRiCa?dl=0">Zoom Recordings </a>**<br>
 <table>
     <colgroup>
@@ -18,10 +18,10 @@ layout: page
             <td> Opening Remarks </td>
         </tr>
         <tr>
-            <td> 11:10 am - 12:00 pm </td>
+            <td> 11:05 am - 12:00 pm </td>
             <td>
-                Keynote Talk: <b>Sendhil Mullainathan</b> <br>
-                Can Algorithms Help Us Better Understand Ourselves?
+                Keynote Talk: <b>Susan Murphy</b> <br>
+                We used Reinforcement Learning, but did it work?
             </td>
         </tr>
         <tr>
@@ -39,75 +39,67 @@ layout: page
         <tr>
             <td> 01:00 pm - 02:00 pm </td>
             <td>
-                "Lunch Rooms" on <a href="https://gather.town/">gather</a>. Themes:
-                <ul>
-                    <li> AI-informed Intervention Design </li>
-                    <li>  Leveraging Observational Data for Behavior Change </li>
-                    <li> AI in the Field: Translating Theory to Action </li>
-                    <li>Observing Unobservables: Psychology to Generate New Features </li>
-                    <li>New Directions for Research on the Psychology of Technology </li>
-                </ul>
+                "Lunch Rooms" on <a href="https://gather.town/">gather</a>
             </td>
         </tr>
         <tr>
-            <td> 01:45pm - 02:30pm </td>
+            <td> 01:00pm - 02:00pm </td>
             <td>
-                <a href="https://ai4bc.github.io/ai4bc21/posters.html">Poster session</a> on gather
+                <a href="https://ai4bc.github.io/ai4bc22/posters.html">Poster session</a> on gather
             </td>
         </tr>
         <tr>
-            <td> 02:00pm - 02:30pm </td>
+            <td> 02:00pm - 02:45pm </td>
             <td>
-                <a href="https://ai4bc.github.io/ai4bc21/posters.html">Spotlight Talks by Poster Presenters</a> 
+                Invited Talk: <b>Rayid Ghani</b> <br>
+                ML and Behavior Change for Fair and Equitable Outcomes
             </td>
         </tr>
         <tr>
-            <td> 02:30pm - 03:30pm </td>
+            <td> 02:45pm - 03:45pm </td>
             <td>
-                Keynote Talk: <b>Susan Athey</b> <br>
-                Designing and Analyzing Large Scale Experiments for Behavior Change
+                Keynote Talk: <b>Colin Camerer</b> <br>
+                Predicting context-sensitivity of behavior in field data using machine learning
             </td>
         </tr>
         <tr>
-            <td> 03:30pm - 04:15pm </td>
+            <td> 03:45pm - 04:30pm </td>
             <td>
-                Invited Talk: <b>Eric Tchetgen Tchetgen</b> <br>
-                An Introduction to Proximal Causal Learning
+                Invited Talk: <b>Jenna Wiens</b> <br>
+                Augmenting Clinical Decision Making with Artificial Intelligence
             </td>
         </tr>
         <tr>
-            <td> 04:15pm - 04:30pm </td>
+            <td> 04:30pm - 04:45pm </td>
             <td>
-                Break (gather)
+                Break
             </td>
         </tr>
         <tr>
-            <td> 04:30pm - 05:15pm </td>
+            <td> 04:45pm - 05:30pm </td>
             <td>
-                Invited Talk: <b>Munmun De Choudhury</b> <br>
-                Bridging Machine Learning and Collaborative Action Research: A Tale of Engaging with Three Stakeholders in Digital Mental Health
+                Invited Talk: <b>Moderated Panel with Dean Knox, Jenn Logg, and Phebe Vayanos</b> <br>               
             </td>
         </tr>
         <tr>
-            <td> 05:15pm - 06:00pm </td>
+            <td> 05:30pm - 06:15pm </td>
             <td>
-                Invited Talk: <b>Jon Kleinberg</b> <br>
-                Simplicity and Bias in Decision-Making
+                Invited Talk: <b>Jens Ludwig</b> <br>
+                Human Connections and Algorithmic Biases
             </td>
         </tr>
         <tr>
-            <td> 06:00 pm - 06:10 pm </td>
+            <td> 06:15pm - 06:30pm</td>
             <td>
                 Awards Ceremony
                 <ul>
                     <li> Center for Applied AI at Chicago Booth Award for the Best Poster </li>
-                    <li> Psych of Tech Award for the Best Contributed Paper </li>
                 </ul>
                 Closing Remarks
             </td>
         </tr>
         <tr>
-            <td> 06:10 pm - 07:00 pm </td>
+            <td> 06:30 pm - 07:00 pm </td>
             <td>
                 Post-workshop hangout on gather
             </td>
