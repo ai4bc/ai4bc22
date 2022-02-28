@@ -93,7 +93,7 @@ The audience of this workshop will be researchers and students from a wide array
     <div class="list-item-people">
         <p class="list-post-title">
             <img class="profile-thumbnail" src="https://www.jennlogg.com/uploads/2/8/9/2/2892148/editor/loggjenn-160921-0046_1.jpeg?1531837761"/>
-            <span class="caption"><a href="https://www.jennlogg.com/">Jennifer Logg</a><br>Theory of Machine<br>Georgetown University</span>
+            <span class="caption"><a href="https://www.jennlogg.com/">Jennifer Logg</a><br>Theory of Management<br>Georgetown University</span>
         </p>
     </div>
     <div class="list-item-people">
