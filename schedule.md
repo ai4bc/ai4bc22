@@ -37,8 +37,8 @@ layout: page
         <tr>
             <td> 01:00 pm - 02:00 pm </td>
             <td>
-                Lunch Rooms on <a href="https://gather.town/">gather</a> sponsored by the <a href="https://www.bu.edu/susilo/">Susilo Center for Ethics in the Global Economy</a> <br>
-         Poster session sponsored by the <a href = "https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence/">Center for Applied AI at Chicago Booth</a> <br>
+                Lunch Rooms on <a href="https://aaai-2022.virtualchair.net/index.html">Virtual Chair</a> sponsored by the <a href="https://www.bu.edu/susilo/">Susilo Center for Ethics in the Global Economy</a> <br>
+         Poster session sponsored by the <a href = "https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence/">Center for Applied AI at Chicago Booth on Virtual Chair</a> <br>
             </td>
         </tr>
         <tr>
