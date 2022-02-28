@@ -71,7 +71,7 @@ layout: page
         <tr>
             <td> 04:45pm - 05:30pm </td>
             <td>
-                Invited Talk: <b>Moderated Panel with <a href = "http://www.dcknox.com/">Dean Knox</a>, <a href = "https://www.jennlogg.com/">Jenn Logg</a>, and <a href = "https://viterbi.usc.edu/directory/faculty/Vayanos/Phebe/">Phebe Vayanos</a></b> <br>               
+                <b>Moderated Panel by Lyle Ungar with <a href = "http://www.dcknox.com/">Dean Knox</a>, <a href = "https://www.jennlogg.com/">Jenn Logg</a>, and <a href = "https://viterbi.usc.edu/directory/faculty/Vayanos/Phebe/">Phebe Vayanos</a></b> <br>               
             </td>
         </tr>
         <tr>
