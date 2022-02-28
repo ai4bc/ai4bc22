@@ -5,8 +5,8 @@ title: Posters
 layout: page
 ---
 
-| Title                                                                                                                   | Presenter                             |
-|-------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
+| Title                                                                                                                   | Presenter                                  |
+|-------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
 | <a href = "https://vchair-files.s3.us-east-1.amazonaws.com/event/1182/Yi6wSX5n.pdf"> Understanding and Shifting Preferences for Battery Electric Vehicles</a>                                                    | Nikos Arechiga                     |
 | <a href = "https://dashboard.virtualchair.net/event/aaai-22/submissions/4awAMMrCJjzAl4ENEGwASlg7MTmBghphSFBI1XOG">Learning Optimal Prescriptive Trees from Observational Data</a>                                               | Nathaneal Jo                      |
 | <a href = "https://vchair-files.s3.us-east-1.amazonaws.com/event/1182/yYkEDh5G.pdf">Optimal Pricing of Information</a>                                            | Shuze Liu                         |
